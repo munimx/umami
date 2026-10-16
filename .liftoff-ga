@@ -1,0 +1,3 @@
+Marker for the Liftoff Azure GA run (L2). Not application code.
+The generated workflow ignores pushes that touch only its own file, and GitHub cannot dispatch a
+workflow that exists only on a non-default branch and has never run, so this commit starts the first build.
