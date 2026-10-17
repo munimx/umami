@@ -1,2 +1,3 @@
 Marker for the Liftoff Azure GA run (L4i). Not application code.
 ga-run push 2026-10-17
+ga-run zero-downtime 1
